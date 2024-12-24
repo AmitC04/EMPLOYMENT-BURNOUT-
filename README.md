@@ -40,7 +40,7 @@ Run the analysis:
 
 Execute the cells in the notebook to perform the data analysis and model training.
 
-<span style="color:blue; font-weight:bold;">Project Structure</span>
+## <span style="color:blue; font-weight:bold;">Project Structure</span>
 The analysis in the notebook follows these steps:
 
 Data Loading: Importing the dataset and necessary libraries.
@@ -52,8 +52,8 @@ Model Evaluation: Assessing model performance using appropriate metrics.
 Contributing
 Contributions are welcome. If you have suggestions or improvements, please open an issue or submit a pull request.
 
-<span style="color:blue; font-weight:bold;">License</span>
+## <span style="color:blue; font-weight:bold;">License</span>
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-<span style="color:blue; font-weight:bold;">Acknowledgments</span>
+## <span style="color:blue; font-weight:bold;">Acknowledgments</span>
 This project is part of the IBM Machine Learning curriculum. Special thanks to the course instructors and the open-source community for their valuable resources.
