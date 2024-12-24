@@ -10,6 +10,7 @@ In this project, we analyze a dataset containing various features related to emp
 
 ## <span style="color:blue; font-weight:bold;">**Repository Contents**</span> 
 ProjectEBA.ipynb: Jupyter Notebook containing the complete analysis and model development process.
+requirement.txt:To install the project dependencies
 employee_burnout_analysis-AI 2.xlsx: Dataset used for the analysis.
 README.md: This file, providing an overview of the project.
 
@@ -57,3 +58,13 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## <span style="color:blue; font-weight:bold;">Acknowledgments</span>
 This project is part of the IBM Machine Learning curriculum. Special thanks to the course instructors and the open-source community for their valuable resources.
+
+## <span style="color:blue; font-weight:bold;">**📝 Feedback and Support**</span>  
+If you have any feedback, suggestions, or questions regarding the project, please create an issue in the repository or contact me at:  
+[amitc220404@gmail.com](mailto:amitc220404@gmail.com)   
+
+
+## <span style="color:blue; font-weight:bold;">**⭐ Show Your Support**</span>  
+If you find this repository helpful, don't forget to show your support by giving it a star! ⭐
+
+
