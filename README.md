@@ -3,17 +3,17 @@
 
 **This repository contains the Employment Burnout Analysis (EBA) project, developed as part of IBM's Machine Learning curriculum. The project focuses on analyzing employee burnout using machine learning techniques.**
 
-**Project Overview**
+## <span style="color:blue; font-weight:bold;">**Project Overview**</span> 
 Employee burnout is a state of physical, emotional, and mental exhaustion caused by prolonged stress in the workplace. It can lead to decreased productivity, increased absenteeism, and higher turnover rates. Understanding and predicting employee burnout is crucial for organizations to maintain a healthy and productive workforce.
 
 In this project, we analyze a dataset containing various features related to employees and their work environment to predict burnout levels. The analysis includes data preprocessing, exploratory data analysis, feature engineering, model building, and evaluation.
 
-**Repository Contents**
+## <span style="color:blue; font-weight:bold;">**Repository Contents**</span> 
 ProjectEBA.ipynb: Jupyter Notebook containing the complete analysis and model development process.
 employee_burnout_analysis-AI 2.xlsx: Dataset used for the analysis.
 README.md: This file, providing an overview of the project.
 
-**Getting Started**
+## <span style="color:blue; font-weight:bold;">**Getting Started**</span>  
 To replicate the analysis:
 Clone the repository:
 
@@ -40,7 +40,7 @@ Run the analysis:
 
 Execute the cells in the notebook to perform the data analysis and model training.
 
-**Project Structure**
+<span style="color:blue; font-weight:bold;">Project Structure</span>
 The analysis in the notebook follows these steps:
 
 Data Loading: Importing the dataset and necessary libraries.
@@ -52,8 +52,8 @@ Model Evaluation: Assessing model performance using appropriate metrics.
 Contributing
 Contributions are welcome. If you have suggestions or improvements, please open an issue or submit a pull request.
 
-**License**
+<span style="color:blue; font-weight:bold;">License</span>
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-**Acknowledgments**
+<span style="color:blue; font-weight:bold;">Acknowledgments</span>
 This project is part of the IBM Machine Learning curriculum. Special thanks to the course instructors and the open-source community for their valuable resources.
