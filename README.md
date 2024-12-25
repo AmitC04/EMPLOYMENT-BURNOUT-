@@ -21,6 +21,7 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/AmitC04/EMPLOYMENT-BURNOUT-.git
+
 Install the required packages: requirement.txt
 
 Ensure you have the necessary Python packages installed. You can use pip to install them:
