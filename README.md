@@ -10,8 +10,11 @@ In this project, we analyze a dataset containing various features related to emp
 
 ## <span style="color:blue; font-weight:bold;">**Repository Contents**</span> 
 ProjectEBA.ipynb: Jupyter Notebook containing the complete analysis and model development process.
+
 requirement.txt:To install the project dependencies
+
 employee_burnout_analysis-AI 2.xlsx: Dataset used for the analysis.
+
 README.md: This file, providing an overview of the project.
 
 ## <span style="color:blue; font-weight:bold;">**Getting Started**</span>  
