@@ -50,11 +50,16 @@ The analysis in the notebook follows these steps:
 
 Data Loading: Importing the dataset and necessary libraries.
 Data Preprocessing: Handling missing values, encoding categorical variables, and scaling features.
+
 Exploratory Data Analysis (EDA): Visualizing data distributions and relationships between variables.
+
 Feature Engineering: Creating new features or modifying existing ones to improve model performance.
+
 Model Building: Training machine learning models to predict employee burnout.
+
 Model Evaluation: Assessing model performance using appropriate metrics.
-Contributing
+
+## <span style="color:blue; font-weight:bold;">Contributing</span>
 Contributions are welcome. If you have suggestions or improvements, please open an issue or submit a pull request.
 
 ## <span style="color:blue; font-weight:bold;">License</span>
