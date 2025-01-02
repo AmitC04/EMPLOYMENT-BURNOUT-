@@ -3,6 +3,7 @@
 
 **This repository contains the Employment Burnout Analysis (EBA) project, developed as part of IBM's Machine Learning curriculum. The project focuses on analyzing employee burnout using machine learning techniques.**
 
+
 ## <span style="color:blue; font-weight:bold;">**Project Overview**</span> 
 Employee burnout is a state of physical, emotional, and mental exhaustion caused by prolonged stress in the workplace. It can lead to decreased productivity, increased absenteeism, and higher turnover rates. Understanding and predicting employee burnout is crucial for organizations to maintain a healthy and productive workforce.
 
